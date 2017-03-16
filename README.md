@@ -1,7 +1,7 @@
 # plant-io.tk
 
-<p>##ตัวอย่าง</p>
----
+<p><b>ตัวอย่าง</b></p>
+
 <p><a href="https://github.com/KigITS256/plant-io.tk/blob/master/examples/switch/switch.ino">switch</a></p>
 <p><a href="https://github.com/KigITS256/plant-io.tk/blob/master/examples/metter/metter.ino">metter</a></p>
 
