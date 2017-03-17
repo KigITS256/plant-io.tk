@@ -19,8 +19,8 @@ DigitalPin WIFI_RED(LED_Red);
 const int gpio = D2; 
 
 //wifi 
-char ssid[] = "kid";
-char pass[] = "hp640554";
+char ssid[] = "ssid-wifi";
+char pass[] = "password-wifi";
 
 
 
