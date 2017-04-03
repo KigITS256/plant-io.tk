@@ -45,8 +45,9 @@ void setup() {
 }
 
 void loop() {
+   int readingIn =  0;
    readingIn = analogRead(gpio);
    readingIn = convertToPercent(readingIn);
-   api_send("xxxxx"); //api-key
+   api_send("xxxxx",(String)readingIn); //api-key
 
 }
