@@ -6,5 +6,5 @@
 <p><a href="https://github.com/KigITS256/plant-io.tk/blob/master/examples/metter/metter.ino">metter</a></p>
 
 ---
-*ใช้เพือการศึกษาเท่านั้นโค๊ดนี้แจกฟรี*
+*ใช้เพื่อการศึกษาเท่านั้น  โค๊ดนี้แจกฟรี*
 ---
